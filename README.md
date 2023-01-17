@@ -1,2 +1,2 @@
 # lab12-oop
-read spec in the 12
+read spec in lab 12
